@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mutanganabenjamin
 - 👀 I’m interested in building my own website
 - 🌱 I’m currently learning Computer and software Engineering 
-- 💞️ I’m looking to collaborate on webdesigning and tranforming World on better Technology
+- 💞️ I’m looking to collaborate on webdesigning and transforming World on better Technology
 - 📫 How to reach me Email:mutanganabenjamin80@gmail.com 
 
 <!---
